@@ -1,3 +1,5 @@
+![logo](https://github.com/Pritom07/Pritom07/blob/main/intoBanner.png)
+
 <h1 align="center">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm Pritom Mohajon
 </h1>
@@ -7,7 +9,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Scalable+Web+Applications;Lifelong+Learner+%26+Problem+Solver" alt="Typing SVG" />
 </p>
 
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
+<img align="right" alt="coding" width="350" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 
 <p align="left">
   I design and build <b>scalable</b>, <b>user-focused</b>, and <b>production-ready</b> digital solutions.<br/>
@@ -47,6 +49,8 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
 
 
 
