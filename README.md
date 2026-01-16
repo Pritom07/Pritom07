@@ -8,9 +8,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Scalable+Web+Applications;Lifelong+Learner+%26+Problem+Solver" alt="Typing SVG" />
 </p>
 
-<img align="right" alt="coding" width="330" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 
-## 👨‍💻 About Me
+<p align="left">
+      I design and build <b>scalable</b>, <b>secure</b>, <b>user-focused</b>, and <b>production-ready</b> digital solutions. Driven by <b>clean architecture</b>, <b>thoughtful design</b>, and a commitment to <b>continuous growth</b>. I focus on delivering <b>impactful solutions</b> that solve real-world problems while maintaining <b>clarity</b> and <b>maintainability</b>.
+</p>
+
+
+
+<!--## 👨‍💻 About Me-->
 
 - 🎓 **CSTE Student** at **Noakhali Science and Technology University (NSTU)**
 - 🔭 Currently building **full-stack web applications** using **MERN & PERN**
@@ -40,7 +46,7 @@
 
 ---
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
