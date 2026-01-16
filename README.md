@@ -10,12 +10,6 @@
 
 <img align="right" alt="coding" width="350" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 
-<p align="left">
-      I design and build <b>scalable</b>, <b>secure</b>, <b>user-focused</b>, and <b>production-ready</b> digital solutions.<br>
-      Driven by <b>clean architecture</b>, <b>thoughtful design</b>, and a commitment to <b>continuous growth</b>.<br>
-      I focus on delivering <b>impactful solutions</b> that solve real-world problems while maintaining <b>clarity</b> and <b>maintainability</b>.
-</p>
-
 ### 👨‍💻 About Me
 
 - 🎓 **CSTE Student** at **Noakhali Science and Technology University (NSTU)**
