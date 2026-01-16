@@ -4,7 +4,6 @@
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm Pritom Mohajon
 </h1>
 
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Scalable+Web+Applications;Lifelong+Learner+%26+Problem+Solver" alt="Typing SVG" />
 </p>
@@ -12,20 +11,20 @@
 <img align="right" alt="coding" width="350" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 
 <p align="left">
-  I design and build <b>scalable</b>, <b>user-focused</b>, and <b>production-ready</b> digital solutions.<br/>
-  Driven by clean architecture, thoughtful design, and a commitment to continuous growth.
+      I design and build <b>scalable</b>, <b>secure</b>, <b>user-focused</b>, and <b>production-ready</b> digital solutions.<br>
+      Driven by <b>clean architecture</b>, <b>thoughtful design</b>, and a commitment to <b>continuous growth</b>.<br>
+      I focus on delivering <b>impactful solutions</b> that solve real-world problems while maintaining <b>clarity</b> and <b>maintainability</b>.
 </p>
-
 
 ### 👨‍💻 About Me
 
-- 🎓 **CSTE student** at **Noakhali Science and Technology University (NSTU)**
+- 🎓 **CSTE Student** at **Noakhali Science and Technology University (NSTU)**
 - 🔭 Currently building **full-stack web applications** using **MERN & PERN**
 - 🌱 Actively learning **TypeScript, system design basics, and backend best practices**
 - 👯 Open to collaborating on **open-source projects & real-world applications**
 - 🤔 Exploring **scalable backend architecture and database optimization**
 - 💬 Ask me about **JavaScript, React, Node.js, MongoDB, PostgreSQL**
-- 📫 Reach me at: **pritommohajon4545@gmail.com**
+- 📫 Reach me at: **[pritommohajon4545@gmail.com](mailto:pritommohajon4545@gmail.com)**
 - ⚡ Fun fact: *I believe the best way to learn programming is by breaking things and fixing them*
 
 ---
