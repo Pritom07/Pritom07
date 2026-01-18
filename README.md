@@ -84,6 +84,7 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pritom07&theme=dracula" alt="Top Languages" style="margin-right:15px;" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=Pritom07&theme=dracula&hide_border=true" alt="Streak Stats" style="margin-left:15px;" />
+ <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/streak?username=Pritom07&theme=dracula" />-->
 </p>
 
 
@@ -94,7 +95,6 @@
 
 
 <div align="center">
- <!-- ![snake gif](https://github.com/Pritom07/Pritom07/blob/output/github-snake-dark.svg)-->
   <img src="https://github.com/Pritom07/Pritom07/blob/output/github-snake-dark.svg"/>
 </div>
 
