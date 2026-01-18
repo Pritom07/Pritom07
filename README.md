@@ -83,7 +83,6 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pritom07&theme=dracula" alt="Top Languages" style="margin-right:15px;" />
-  &nbsp;
   <img src="https://nirzak-streak-stats.vercel.app/?user=Pritom07&theme=dracula&hide_border=true" alt="Streak Stats" style="margin-left:15px;" />
 </p>
 
