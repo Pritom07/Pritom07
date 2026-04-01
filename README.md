@@ -12,11 +12,10 @@
        I design and build <b>scalable</b>, <b>secure</b>, <b>user-focused</b>, and <b>production-ready</b> digital solutions.  Driven by <b>clean architecture</b>, <b>thoughtful design</b>, and a commitment to <b>continuous growth</b>. I focus on delivering <b>impactful solutions</b> that solve real-world problems while maintaining <b>clarity</b> and <b>maintainability</b>. My goal is to create applications that are not only functional but also intuitive, efficient, and a joy to use for end-users. I am passionate about exploring new technologies and continuously improving my craft to build solutions that make a real difference.
 </p>
 
-
 <div align="center"><img alt="coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamF6ZjJ0a3djYnRzMnVkbTdkYXlpeXJkNXFwMGJvOGJuempmc2F2aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"></div>
 
-
 ## 👨‍💻 About Me
+
 <ul style="font-size: 22px; line-height: 1.8;">
   <li>🎓 <b>CSTE Student</b> at <b>Noakhali Science and Technology University (NSTU)</b></li>
   <li>🔭 Currently building <b>full-stack web applications</b> using <b>MERN & PERN</b></li>
@@ -28,8 +27,8 @@
   <li>⚡ Fun fact: <i>I believe the best way to learn programming is by breaking things and fixing them</i></li>
 </ul>
 
-
 ## 🌐 Socials:
+
   <p align="center">
   <a href="https://www.linkedin.com/in/pritom-mohajon-76b857342/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -42,8 +41,8 @@
   </a>
 </p>
 
-
 ## 💻 Tech Stack:
+
 <p align="center">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -75,32 +74,23 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-
 ## 📊 GitHub Stats:
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pritom07&theme=dracula" alt="Profile Stats" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pritom07&theme=dracula" alt="Top Languages" style="margin-right:15px;" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Pritom07&theme=dracula&hide_border=true" alt="Streak Stats" style="margin-left:15px;" />
- <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/streak?username=Pritom07&theme=dracula" />-->
+  <img src="https://streak-stats.vercel.app/?user=Pritom07&theme=dracula&hide_border=true" alt="Streak Stats" style="margin-left:15px;" />
 </p>
 
-
 ## ✍️ Random Dev Quote
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
 </p>
 
-
 <div align="center">
   <img src="https://github.com/Pritom07/Pritom07/blob/output/github-snake-dark.svg"/>
 </div>
-
-
-
-
-
-
-
